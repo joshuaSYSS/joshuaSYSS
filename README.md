@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaSYSS
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++.
-- 📫 Find me through Gmail.
+- 👀 im interested in coding.
+- 🌱 sqrt decomposition promoter
+- 📫 don't Find me.
 
 <!---
 joshuaSYSS/joshuaSYSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
