@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joshuaSYSS
 - 👀 im interested in coding.
-- 🌱 sqrt decomposition promoter
-- 📫 don't Find me.
 
 <!---
 joshuaSYSS/joshuaSYSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
