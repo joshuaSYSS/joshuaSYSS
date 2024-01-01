@@ -4,3 +4,8 @@
 
 
 < <a href="https://www.youtube.com/@suraworld911" target="_blank">DJ Sura</a>
+
+I only got a few awards in competitive programming:
+2022/23 HKOI Junior Bronze
+7th La Salle — Pui Ching Programming Challenge Merit Prize
+2023 HKSC Bronze
