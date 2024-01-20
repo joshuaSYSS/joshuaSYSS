@@ -9,3 +9,4 @@ I only got a few awards in competitive programming:
 - 2022/23 HKOI Junior Bronze
 - 7th La Salle — Pui Ching Programming Challenge Merit Prize
 - 2023 HKSC Bronze
+- CodinGame Fall Challenge 2023 Hong Kong #1
