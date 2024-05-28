@@ -1,9 +1,6 @@
 - Hi! I'm Joshua Choi
 - I code occasionally
-- I use this profile to push private github files (and publishing them using links) through cmd.
+- I make bad games, and compete in competitive programming (and lose)
+- I publish random projects on here for fun
 
-I only got a few awards in competitive programming:
-- 2022/23 HKOI Junior Bronze
-- 7th La Salle — Pui Ching Programming Challenge Merit Prize
-- 2023 HKSC Bronze
-- CodinGame Fall Challenge 2023 Hong Kong #1
+Contact me through email sy10236@syss.edu.hk
