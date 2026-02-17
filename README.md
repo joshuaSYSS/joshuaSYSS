@@ -10,4 +10,4 @@ My contact information is also included.
 My nickname is Joshua, and when I created this account, I was studying in Sing Yin Secondary School (SYSS).
 
 # Is Joshua part of my name?
-Technically, no, it is not part of my government name. My last name is CHOI (For Chinese names, the last name, also called the family name, is placed "first"), and my first name is Kui Wang.
+Technically, no, it is not part of my government name. My last name is Choi (For Chinese names, the last name, also called the family name, is placed "first"), and my first name is Kui Wang.
