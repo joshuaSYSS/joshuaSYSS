@@ -7,4 +7,7 @@ My Personal Website: https://joshuasyss.github.io/ <br>
 My contact information is also included.
 
 # Why is my name joshuaSYSS?
-My name is Joshua, and when I created this account, I was studying in Sing Yin Secondary School (SYSS).
+My nickname is Joshua, and when I created this account, I was studying in Sing Yin Secondary School (SYSS).
+
+# Is Joshua part of my name?
+Nope, it is not part of my government name.
