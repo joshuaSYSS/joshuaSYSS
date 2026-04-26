@@ -1,5 +1,5 @@
 # Who am I?
-I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate student studying at CityUHK.<br>
+I am Joshua CHOI Kui Wang 蔡居宏, a Computer Science undergraduate student studying at City University of Hong Kong (CityU).<br>
 I am highly interested in the design and analysis of algorithms across various topics.<br>
 
 # Other information
